@@ -91,7 +91,7 @@ old: 52.66.196.163
 new: 65.2.171.155
 
 
-/var/lib/jenkins/jenkins.model.jenconf.xml   ---> update new ip here and restart jenkins
+/var/lib/jenkins/jenkins.model.JenkinsLocationConfiguration.xml   ---> update new ip here and restart jenkins
 
 
 
